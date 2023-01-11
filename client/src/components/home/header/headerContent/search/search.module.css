@@ -1,0 +1,17 @@
+.formWrap {
+  /* margin-bottom: 20px; */
+}
+.tabContent {
+  position: relative;
+  clear: both;
+  background: #fff;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  border-top: 10px solid var(--main-color);
+  max-width: 330px;
+}
+.headline {
+  font-family: "Lato";
+}

@@ -1,0 +1,66 @@
+{
+  "popularDestinations": [
+    {
+      "name": "Bangkok, Thailand",
+      "description": "Bangkok is the most visited city in the world.\n'Same same, but different' - the phrase used to sum up almost anything in Thailand describes the incredible contrasts of Bangkok perfectly. Lively traditional markets and exquisite golden temples.",
+      "image": "https://images.unsplash.com/photo-1578167635648-df79e1565908?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80&w=345"
+    },
+    {
+      "name": "London, United Kingdom",
+      "description": "London is the capital city of the United Kingdom. It is the U.K.'s largest metropolis and its economic, transportation, and cultural centre. London is also among the oldest of the world's great cities, with its history spanning nearly two millennia.",
+      "image": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&q=80&w=345"
+    },
+    {
+      "name": "Paris, France",
+      "description": "Paris is one of the most beautiful cities in the world. It is known worldwide for the Louvre Museum, Notre-Dame cathedral, and the Eiffel tower. It has a reputation of being a romantic and cultural city. The city is also known for its high-quality gastronomy and the terraces of its cafés.",
+      "image": "https://images.unsplash.com/photo-1585944285854-d06c019aaca3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHBhcmlzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&q=80&w=345"
+    },
+    {
+      "name": "Dubai, United Arab Emirates",
+      "description": "Dubai is a city of skyscrapers, ports, and beaches, where big business takes place alongside sun-seeking tourism. Because of its large expatriate population, it feels like a Middle Eastern melting pot, and the atmosphere is generally tolerant.",
+      "image": "https://images.unsplash.com/photo-1582120042072-d01e2fc8f3ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&q=80&w=345"
+    },
+    {
+      "name": "New York, United States",
+      "description": "New York is a city of diversity and dynamism. It is also a city of politics, economy and culture. It is even described as the economic and cultural capital of the world, and New York City is one of the most populous cities in the United States.",
+      "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&q=80&w=345"
+    },
+    {
+      "name": "Tokyo, Japan",
+      "description": "Tokyo offers a seemingly unlimited choice of shopping, entertainment, culture and dining to its visitors. The city's history can be appreciated in districts such as Asakusa and in many excellent museums, historic temples and gardens.",
+      "image": "https://images.unsplash.com/photo-1557409518-1b1ad1ac120d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&q=80&w=345"
+    }
+  ],
+  "ourRecommendation": [
+    {
+      "name": "Reykjavík, Iceland",
+      "description": "Iceland is a paradise for adventure seekers and one of the best adventure destinations in the world for outdoor activities. Every corner of the island offers amazing opportunities to explore the unique Icelandic landscape: from glaciers to waterfalls, geysers and volcanoes!",
+      "image": "https://images.unsplash.com/photo-1501879779179-4576bae71d8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&q=80w=345"
+    },
+    {
+      "name": "San José, Costa Rica",
+      "description": "Costa Rica is the ultimate adventure destination. From the laid-back surfer towns along the coast to amazing music festivals like Envision to the extreme wilderness of the jungles and volcanoes, you can find any adrenaline rush you’re looking for in this Central American country.",
+      "image": "https://images.unsplash.com/photo-1626060451577-8b90a394e355?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvc3RhJTIwcmljYXxlbnwwfDB8MHx8&auto=format&fit=crop&q=80&w=345"
+    },
+    {
+      "name": "Cape Town, South Africa",
+      "description": "South Africa is another one of those countries that really does have a little but of everything! Many people think of beaches when they think of South Africa, but in reality, there are deserts, mountains, beaches, and more.",
+      "image": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&q=80&w=345"
+    },
+    {
+      "name": "Antarctica",
+      "description": "Once you arrive in Antarctica, the seas calm but adventure kicks into high gear. larger-than-life icebergs and glacier-covered mountains. Wildlife sightings are common, yet unpredictable, with huge colonies of penguins, swimming seals, and maybe even breaching humpback whales.",
+      "image": "https://images.unsplash.com/photo-1632347562052-83f2d630ac03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&q=80&w=345"
+    },
+    {
+      "name": "Kathmandu, Nepal",
+      "description": "Nepal is one of the ultimate places to travel for adventure. The small landlocked country boasts of some of the world’s greatest trekking trails, stunning mountain regions, and other adrenaline rushing activities. In short, Nepal is the Holy Grail for adventure enthusiasts.",
+      "image": "https://images.unsplash.com/photo-1562462181-b228e3cff9ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&q=80&w=345"
+    },
+    {
+      "name": "Sydney, Australia",
+      "description": "Wildlife, nightlife, the good life – this is Sydney. Hidden restaurants down historic laneways, famous icons on Sydney Harbour, an endless calendar of events. Golden sands, turquoise oceans, dewy green rainforests. Bring the family, your best mates, your soul mate — and feel the city’s heartbeat all year round.",
+      "image": "https://images.unsplash.com/photo-1540448051910-09cfadd5df61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&q=80&w=345"
+    }
+  ]
+}

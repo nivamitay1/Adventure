@@ -1,0 +1,33 @@
+.headerContent {
+  padding-bottom: 60px;
+  margin-bottom: 10px;
+  position: relative;
+}
+.moto {
+  color: white;
+  font-family: "Lato";
+  cursor: context-menu;
+}
+.bg {
+  height: calc(100%);
+  width: 100%;
+  content: " ";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-family: "Montserrat", sans-serif;
+  background:
+          /* top, transparent black, faked with gradient */ linear-gradient(
+      rgba(88, 88, 88, 0.7),
+      rgba(88, 88, 88, 0.7)
+    ),
+    /* bottom, image */ url("/public/assets/backgroundMedium.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  margin: 0%;
+  padding: 0%;
+  z-index: -1;
+}
